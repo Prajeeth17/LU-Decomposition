@@ -14,10 +14,8 @@ Import numpy package
 ## Step 2:
 Get the input matrix
 ## Step 3:
-Find the L and U matrix
+Find the LU decomposition of the given matrix
 ## Step 4:
-Solve the given matrix using LU decomposition
-## Step 5:
 Print the result
 
 ## Program:
